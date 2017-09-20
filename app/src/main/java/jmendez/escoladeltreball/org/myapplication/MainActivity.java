@@ -5,6 +5,12 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+    Soy un cutre
+    Otra vez
+    */
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
