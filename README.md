@@ -8,7 +8,8 @@ We are getting started!!
 * Estamos aprendiendo a gestionar proyectos.
 * De momento no hacemos mucho.
 
----
+Linea borrada!
  
 Haz click [aquí](https://www.google.es/) para ir a google.
 Eso es todo amigos :smile:
+
