@@ -9,4 +9,6 @@ My first android project
 
 That's all falks :smile:
 
+*** Changes
+
 
