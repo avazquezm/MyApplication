@@ -1,6 +1,7 @@
 # MyApplication
 ## Git demo application
-###By Albert Vazquez
+### By Albert Vazquez
+---
 Escola del Treball
 
 
